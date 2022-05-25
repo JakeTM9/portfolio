@@ -1,0 +1,33 @@
+.App {
+  background-color: #0A122A;
+}
+
+.header {
+  color: #BCBDC0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  min-height: 5vh;
+  font-size: 2vmin;
+  border:2px solid;
+  border-color: #4E6766;
+}
+
+.link {
+  margin-left:10px;
+  color: #BCBDC0;
+  text-decoration: none;
+}
+
+.link-selected {
+  color: #F18F01 !important;
+  text-decoration: none;
+}
+
+/* dark blue #0A122A
+  light gray #BCBDC0
+  medium blue-green #4E6766
+  light red #7D4E57
+  bright orange #F18F01
+*/
